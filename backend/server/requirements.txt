@@ -2,7 +2,7 @@
 django==1.11.6
 
 #Django Rest Framework
-djangorestframework==3.7.0
+djangorestframework==3.11.2
 djangorestframework_jwt==1.11.0
 django_cors_headers==2.1.0
 
